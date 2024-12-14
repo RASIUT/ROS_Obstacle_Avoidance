@@ -1,3 +1,5 @@
+use ros noetic and python3 v3.8.10
+
 **<ins>TERMINAL 0 :</ins>**
 
 - mkdir ~/catkin_ws/src
